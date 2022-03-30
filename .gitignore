@@ -119,7 +119,7 @@ local.properties
 # PyDev specific (Python IDE for Eclipse)
 *.pydevproject
 
-# CDT-specific (C/C++ Development Tooling)
+# CDT-specific (TestC/TestC++ Development Tooling)
 .cproject
 
 # CDT- autotools 
